@@ -1,0 +1,11 @@
+## Paquete Automatizado 
+- Consultoría para Integración con API SOAP de Quiero Mi Factura, costo por única ocasión: $2,500 MXN + IVA 
+- Renta anual de plugin Quiero Mi Factura - Woocommerce: $2,500.00 MXN +IVA 
+- Costo por orden procesada: $1.50MXN + IVA (Las órdenes procesadas son cada una de las ventas realizadas en su tienda Woo, en Mercado Libre o en Amazon, sea que se facturen, no se facturen, o se manden a factura global) 
+- Adicional a ello debe comprarse un paquete de timbrado del PAC Pegaso Tecnología.  _Incluye generación de factura global automatizada y Notas de crédito automatizadas por facturación fuera del mes._ 
+- La consultoría para integración con API SOAP Quiero mi Factura incluye: 
+	- Entrega de documentación 
+	- Entrega de ambiente de pruebas (QA) de Quiero Mi Factura y Pegaso Tecnología. 
+	- Entrega de ejemplos 
+	- Apoyo de un ingeniero asignado a su cuenta. 
+	- Aseguramiento de calidad.

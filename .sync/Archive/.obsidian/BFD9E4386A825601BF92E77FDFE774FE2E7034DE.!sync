@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "2dcaeb381e707375",
+    "type": "split",
+    "children": [
+      {
+        "id": "760eed43c856ecb2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Edd/Notas diarias/20220802.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "874b622e2e3c2464",
+    "type": "split",
+    "children": [
+      {
+        "id": "514b69abfb320d2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dae697cac4eb52a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ddce52347aea65e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#AaronLeal",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fc9428d94f8e93e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "becddedb1fa3390a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "right": {
+    "id": "f822e29e88e265a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5073636bd7c3e087",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8964c86357124e6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "174a3ce95003ae1b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Edd/Notas diarias/20220802.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a7e59daf3b6dabe9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Edd/Notas diarias/20220802.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e77de66388e38468",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "58184d9befeda040",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Edd/Notas diarias/20220802.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "760eed43c856ecb2",
+  "lastOpenFiles": [
+    "Edd/Notas diarias/20220712.md",
+    "Edd/Notas diarias/20220802.md",
+    "Edd/Notas diarias/20220724.md",
+    "Edd/Plantillas/Untitled.md",
+    "Edd/Trabajo/Reportes/20220526-1-06/Resumen mayo26-1junio 2022.md",
+    "Edd/Trabajo/NefroApp/Solicitudes NefroApp Brenda.md",
+    "Edd/Notas diarias/20220730.md",
+    "Edd/Notas diarias/20220810.md",
+    "Edd/Notas diarias/20220715.md",
+    "Edd/Trabajo/ZPorcesos independiente/15-07-2022 Sucursal Morelia.md"
+  ]
+}

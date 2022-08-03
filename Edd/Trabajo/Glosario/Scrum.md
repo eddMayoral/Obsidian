@@ -1,0 +1,7 @@
+## ¿Qué es scrum?
+
+Scrum es un marco que permite el trabajo colaborativo entre equipos. Al igual que un equipo de rugby (de donde proviene su nombre) cuando entrena para un gran partido, scrum anima a los equipos a aprender a través de las experiencias, a autoorganizarse mientras aborda un problema y a reflexionar sobre sus victorias y derrotas para mejorar continuamente.
+
+Aunque son los equipos de desarrollo de software los que utilizan con mayor frecuencia este tipo de scrum, sus principios y lecciones se pueden aplicar a todo tipo de trabajo en equipo. Esta es una de las razones por las que es tan popular. Aunque se considera a menudo un marco de gestión de proyectos ágil, scrum incluye un conjunto de reuniones, herramientas y funciones que, de forma coordinada, ayudan a los equipos a estructurar y gestionar su trabajo.
+
+En este artículo, analizaremos cómo se compone un marco de trabajo tradicional de scrum con la ayuda de la [guía de scrum](https://www.scrumguides.org/) y David West, director ejecutivo de Scrum.org. También incluiremos ejemplos de cómo nuestros clientes se desvían de estos principios para satisfacer sus necesidades específicas. Para ello, nuestra propia Megan Cook, gestora de productos de grupo para Jira Software y anteriormente orientadora ágil, proporcionará consejos y trucos en la serie de vídeos de orientador ágil:

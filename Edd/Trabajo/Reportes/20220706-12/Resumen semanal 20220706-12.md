@@ -1,0 +1,13 @@
+## Edgar Mayoral
+- Ajustes sitio webinar
+- [[Resumen semanal de 29 al 4 de julio]]
+- [[Revision ]] [[Quiero Mi Factura]]
+- Pruebas BioTime Pro Server
+- [[Informe BioTimePro]]
+- [[Pruebas NewLetter]]
+- [[Actualizacion de cuentas BTL]]
+- Planeacion auditoria Mariel y Diego véase [[Auditoria Becario Diseño]] y [[Auditoria Almacenista]]
+- [[Limpieza site 9 de julio 2022]]
+- [[Enviar Epson a reparación]] revision estatus Epson L3110 __Se envia a GDL para su posterior traslado a [[Centro de servicios epson]]__ 
+- [[Newsletter Media-alta]]
+- [[2022-07-13 seguimiento odoo]]

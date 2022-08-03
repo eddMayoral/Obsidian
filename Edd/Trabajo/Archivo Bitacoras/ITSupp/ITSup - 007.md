@@ -1,0 +1,4 @@
+# Motivo
+Cliente menciona que aparece mensaje de error al momento de solicitar su factura atraés del portal de autofacturación
+# Solución
+Se realizó la búsqueda del ticket en la base de datos de Nefrobrain, por la terminación del folio de ticket "4792" se determina que los datos de TicketID (compartidos por el cliente) son incorrectos. Se comparte a Jessica de Atención a Clientes y a Mayra de Administración y Finanzas el ticketID correcto para la emisión de la factura correspondiente. Se da a elegir si la factura la emitirá el área de atención a clientes o el mismo cliente, ambas a través del sitio de autofacturación.
